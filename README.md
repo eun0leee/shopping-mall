@@ -110,4 +110,4 @@ npm start
 |:---:|:---:|:---:|:---:|
 |<a href="https://github.com/syoon0624"><img src="https://avatars.githubusercontent.com/u/77139957?v=4" width=160/></a>|<a href="https://github.com/0nesan"><img src="https://avatars.githubusercontent.com/u/76930602?v=4" width=160/></a>|<a href="https://github.com/KoreanVisionaryCoder"><img src="https://avatars.githubusercontent.com/u/98737388?v=4" width=160/></a>|<a href="https://github.com/eun0leee"><img src="https://avatars.githubusercontent.com/u/90189513?v=4" width=160/></a>|
 * [팀 레포지토리](https://github.com/shopping-mall-Frontend/team-project)
-* [팀 위키](https://github.com/shopping-mall-Frontend/shopping-mall) 
+* [팀 위키](https://github.com/shopping-mall-Frontend/shopping-mall/wiki) 
